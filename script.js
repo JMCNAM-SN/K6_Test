@@ -36,3 +36,4 @@ export default function () {
   response = http.get('https://test.k6.io/news.php')
 }
 //TESTING
+//APISECRET
