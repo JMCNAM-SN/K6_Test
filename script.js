@@ -35,3 +35,4 @@ export default function () {
   // News
   response = http.get('https://test.k6.io/news.php')
 }
+//TESTING
